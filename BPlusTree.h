@@ -2,6 +2,7 @@
 #ifndef _B_PLUS_TREE_H
 #define _B_PLUS_TREE_H
 #include <iostream>
+#include <vector>
 
 template <typename T>
 struct Node {
